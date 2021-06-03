@@ -13,17 +13,17 @@ class App extends Component {
       {
       id: 1,
       title: 'Take out trash',
-      completed: True
+      completed: true
       },
       {
         id: 2,
-        title: 'Take your bath',
-        completed: False
+        title: 'Take my bath',
+        completed: false
         },
         {
           id: 3,
           title: 'Sleep',
-          completed: True
+          completed: true
           }
     ]
   }
